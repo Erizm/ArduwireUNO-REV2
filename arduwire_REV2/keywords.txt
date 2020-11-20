@@ -1,0 +1,42 @@
+
+
+
+arduwire	KEYWORD1
+led_pass_on	KEYWORD2					
+set_cbl_passed	KEYWORD2						
+get_cbl_passed	KEYWORD2							
+led_pass_off	KEYWORD2								
+led_fail_on	KEYWORD2					
+led_fail_off	KEYWORD2					
+led_pass_flip	KEYWORD2				
+led_fail_flip	KEYWORD2					
+all_led_off	KEYWORD2		
+buzzer_on	KEYWORD2							
+buzzer_cbl_passed	KEYWORD2						
+buzzer_cbl_failed	KEYWORD2			 	
+beep_probe	KEYWORD2				
+buzzer_off	KEYWORD2													
+scanner	KEYWORD2																							
+clear_buffer_drains	KEYWORD2
+set_drains_outputs	KEYWORD2			 			  		
+release_latch_drains	KEYWORD2				
+high_impedance_mux	KEYWORD2								
+set_enable_4067	KEYWORD2												
+set_mux	KEYWORD2													
+learn	KEYWORD1					
+init	KEYWORD2												
+led_on_learn	KEYWORD2					
+led_off_learn	KEYWORD2	
+get_pina_learned	KEYWORD2										
+get_pinb_learned	KEYWORD2							
+get_connections_numbers	KEYWORD2					
+get_learned_cable	KEYWORD2		
+get_connections_tested	KEYWORD2					
+test	KEYWORD1
+set_last_pin	KEYWORD2
+get_last_pin	KEYWORD2
+calculate_crc8	KEYWORD2
+cable_pres	KEYWORD2
+get_connections_learned	KEYWORD2
+get_total_tP	KEYWORD2
+selftest	KEYWORD2
